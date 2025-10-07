@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>洋青椒帳號與資料刪除政策</title>
+  <style>
+    body {
+      font-family: "Noto Sans TC", sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.8;
+      color: #333;
+    }
+    h1, h2 { color: #00695c; }
+    h1 { text-align: center; }
+    hr { margin: 20px 0; }
+  </style>
+</head>
+<body>
+  <h1>洋青椒帳號與資料刪除政策</h1>
+  <p>「洋青椒」是由開發者 <b>HsuyiFan</b> 製作的社交與約會應用程式，致力於保障使用者的隱私與資料安全。</p>
+
+  <hr>
+
+  <h2>🔹 如何刪除帳號</h2>
+  <p><b>方法一：應用程式內操作</b></p>
+  <ol>
+    <li>開啟「洋青椒」App</li>
+    <li>前往「帳號設定」頁面</li>
+    <li>點擊「刪除帳號」按鈕</li>
+    <li>確認刪除後，系統將自動清除所有個人資料</li>
+  </ol>
+
+  <p><b>方法二：聯絡客服信箱</b></p>
+  <p>若無法登入 App，可寄信至 <b>doralu950413@gmail.com</b><br>
+  主旨請寫「刪除帳號申請」，並附上註冊使用的電子郵件信箱或使用者名稱。<br>
+  我們會在 <b>7 個工作天內</b> 處理完成。</p>
+
+  <hr>
+
+  <h2>🔹 被刪除或保留的資料項目</h2>
+  <ul>
+    <li>✅ 刪除：姓名、電子郵件、照片、學校、性別、興趣標籤、聊天紀錄、活動紀錄</li>
+    <li>⚠️ 保留：法律或安全目的所需的最小化紀錄（最長 30 天後刪除）</li>
+  </ul>
+
+  <hr>
+
+  <h2>🔹 刪除單項資料</h2>
+  <p>使用者可要求刪除特定資料（例如相片或標籤），而不必刪除整個帳號。<br>
+  請寄信至 <b>doralu950413@gmail.com</b>，註明希望刪除的資料項目。</p>
+
+  <hr>
+
+  <h2>🔹 資料刪除時程</h2>
+  <ul>
+    <li>帳號刪除請求提交後，帳號會立即停用</li>
+    <li>所有個人資料會在 <b>30 天內</b> 從 Firebase 永久刪除</li>
+    <li>備份資料（如有）將於 <b>90 天內</b> 自動清除</li>
+  </ul>
+
+  <hr>
+
+  <h2>🔹 聯絡資訊</h2>
+  <p>📩 <b>客服信箱：</b> doralu950413@gmail.com<br>
+  🌐 <b>開發者名稱：</b> HsuyiFan<br>
+  📱 <b>應用程式名稱：</b> 洋青椒</p>
+</body>
+</html>
